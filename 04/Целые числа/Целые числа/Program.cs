@@ -15,25 +15,25 @@ namespace Целые_числа
             int b = int.Parse(Console.ReadLine());
             Console.WriteLine("Введите третье целое число");
             int c = int.Parse(Console.ReadLine());
-            if (a > b)
+            if (a >= b)
             {
-                if (a > c)
+                if (a >= c)
                 {
                     Console.WriteLine("Наибольшее целое число - " + a);
                     Console.ReadLine();
                 }
             }
-            if (b > c)
+            if (b >= c)
             {
-                if (b > a)
+                if (b >= a)
                 {
                     Console.WriteLine("Наибольшее целое число - " + b);
                     Console.ReadLine();
                 }
             }
-            if (c > b)
+            if (c >= b)
             {
-                if (c > a)
+                if (c >= a)
                 {
                     Console.WriteLine("Наибольшее целое число - " + c);
                     Console.ReadLine();
