@@ -14,31 +14,26 @@ namespace Сравнение_чисел
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine("Введите второе целое число");
             int b = int.Parse(Console.ReadLine());
+            Compare(a, b);
+        }
+        static void Compare(int a, int b)
+        {
             if (a > b)
             {
-                comparison(">");
+                Console.WriteLine(">");
+                Console.ReadLine();
             }
-            else if(a == b)
+            else if (a == b)
             {
-                comparison("=");
+                Console.WriteLine("=");
+                Console.ReadLine();
             }
-            else if(a < b)
+            else if (a < b)
             {
-                comparison("<");
+                Console.WriteLine("<");
+                Console.ReadLine();
             }
-
         }
-        static void comparison(string Sign)
-        {
-            Console.WriteLine(Sign);
-            Console.ReadLine();
-        }
-        
 
-
-       
-        
-
-       
     }
 }
