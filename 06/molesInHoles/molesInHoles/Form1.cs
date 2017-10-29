@@ -8,41 +8,47 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace molesInHoles {
-	public partial class Form1 : Form {
-		Graphics graphics;
-		public Form1() {
-			InitializeComponent();
-		}
+namespace molesInHoles
+{
+    public partial class Form1 : Form
+    {
+        Graphics graphics;
+        public Form1()
+        {
+            InitializeComponent();
+        }
 
-		protected override void OnPaint(PaintEventArgs e) {
-			graphics = e.Graphics;
-			graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
+        protected override void OnPaint(PaintEventArgs e)
+        {
+            graphics = e.Graphics;
+            graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
 
-			// норы!
-			graphics.FillEllipse(Brushes.Black, 150, 185, 100, 30);
-			graphics.FillEllipse(Brushes.Black, 20, 104, 100, 30);
-			graphics.FillEllipse(Brushes.Black, 250, 45, 100, 30);
-			graphics.FillEllipse(Brushes.Black, 247, 335, 100, 30);
-			
-			// рисуйте кротов здесь
-		}
+            // норы!
+            graphics.FillEllipse(Brushes.Black, 150, 185, 100, 30);
+            graphics.FillEllipse(Brushes.Black, 20, 104, 100, 30);
+            graphics.FillEllipse(Brushes.Black, 250, 45, 100, 30);
+            graphics.FillEllipse(Brushes.Black, 247, 335, 100, 30);
 
-		private void DrawMole() {
-			// координаты крота
-			int moleX = 200;
-			int moleY = 200;
+            // рисуйте кротов здесь
+            DrawMole(40,80);
+            DrawMole(270,25);
+            DrawMole(170,170);
+            DrawMole(265,315);
+        }
 
-			// морда
-			graphics.FillEllipse(Brushes.Sienna, moleX, moleY, 60, 60);
-			graphics.FillEllipse(Brushes.BurlyWood, moleX + 14, moleY + 27, 33, 28);
-			// глаза
-			graphics.FillEllipse(Brushes.Black, moleX + 15, moleY + 10, 10, 10);
-			graphics.FillEllipse(Brushes.Black, moleX + 35, moleY + 10, 10, 10);
-			// нос
-			graphics.FillEllipse(Brushes.Black, moleX + 25, moleY + 20, 10, 10);
-			// рот
-			graphics.FillEllipse(Brushes.Black, moleX + 20, moleY + 38, 20, 5);
-		}
-	}
+        private void DrawMole(int moleX, int moleY)
+        {
+            // морда
+            graphics.FillEllipse(Brushes.Sienna, moleX, moleY, 60, 60);
+            graphics.FillEllipse(Brushes.BurlyWood, moleX + 14, moleY + 27, 33, 28);
+            // глаза
+            graphics.FillEllipse(Brushes.Black, moleX + 15, moleY + 10, 10, 10);
+            graphics.FillEllipse(Brushes.Black, moleX + 35, moleY + 10, 10, 10);
+            // нос
+            graphics.FillEllipse(Brushes.Black, moleX + 25, moleY + 20, 10, 10);
+            // рот
+            graphics.FillEllipse(Brushes.Black, moleX + 20, moleY + 38, 20, 5);
+        }
+    }
 }
+  
