@@ -35,7 +35,6 @@ namespace molesInHoles
             DrawMole(170,170);
             DrawMole(265,315);
         }
-
         private void DrawMole(int moleX, int moleY)
         {
             // морда
