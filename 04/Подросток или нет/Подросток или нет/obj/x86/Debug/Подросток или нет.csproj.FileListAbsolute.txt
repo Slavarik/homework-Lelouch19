@@ -1,0 +1,6 @@
+C:\Users\1\AppData\Local\Temporary Projects\Подросток или нет\bin\Debug\Подросток или нет.exe
+C:\Users\1\AppData\Local\Temporary Projects\Подросток или нет\bin\Debug\Подросток или нет.pdb
+C:\Users\1\AppData\Local\Temporary Projects\Подросток или нет\obj\x86\Debug\Подросток или нет.exe
+C:\Users\1\AppData\Local\Temporary Projects\Подросток или нет\obj\x86\Debug\Подросток или нет.pdb
+C:\Users\1\Documents\C#\homework-Lelouch19\04\Подросток или нет\Подросток или нет\obj\x86\Debug\Подросток или нет.exe
+C:\Users\1\Documents\C#\homework-Lelouch19\04\Подросток или нет\Подросток или нет\obj\x86\Debug\Подросток или нет.pdb

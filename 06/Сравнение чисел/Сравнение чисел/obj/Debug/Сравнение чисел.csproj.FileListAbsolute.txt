@@ -1,0 +1,7 @@
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Сравнение чисел\Сравнение чисел\bin\Debug\Сравнение чисел.exe.config
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Сравнение чисел\Сравнение чисел\bin\Debug\Сравнение чисел.exe
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Сравнение чисел\Сравнение чисел\bin\Debug\Сравнение чисел.pdb
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Сравнение чисел\Сравнение чисел\obj\Debug\Сравнение чисел.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Сравнение чисел\Сравнение чисел\obj\Debug\Сравнение чисел.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Сравнение чисел\Сравнение чисел\obj\Debug\Сравнение чисел.exe
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Сравнение чисел\Сравнение чисел\obj\Debug\Сравнение чисел.pdb

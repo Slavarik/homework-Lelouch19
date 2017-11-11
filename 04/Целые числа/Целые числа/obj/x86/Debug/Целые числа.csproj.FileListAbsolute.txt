@@ -1,0 +1,6 @@
+C:\Users\1\AppData\Local\Temporary Projects\Целые числа\bin\Debug\Целые числа.exe
+C:\Users\1\AppData\Local\Temporary Projects\Целые числа\bin\Debug\Целые числа.pdb
+C:\Users\1\AppData\Local\Temporary Projects\Целые числа\obj\x86\Debug\Целые числа.exe
+C:\Users\1\AppData\Local\Temporary Projects\Целые числа\obj\x86\Debug\Целые числа.pdb
+C:\Users\1\Documents\C#\homework-Lelouch19\04\Целые числа\Целые числа\obj\x86\Debug\Целые числа.exe
+C:\Users\1\Documents\C#\homework-Lelouch19\04\Целые числа\Целые числа\obj\x86\Debug\Целые числа.pdb

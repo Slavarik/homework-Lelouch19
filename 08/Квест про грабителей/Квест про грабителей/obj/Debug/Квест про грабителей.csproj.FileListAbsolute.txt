@@ -1,0 +1,7 @@
+C:\Users\1\Documents\C#\homework-Lelouch19\08\Квест про грабителей\Квест про грабителей\bin\Debug\Квест про грабителей.exe.config
+C:\Users\1\Documents\C#\homework-Lelouch19\08\Квест про грабителей\Квест про грабителей\bin\Debug\Квест про грабителей.exe
+C:\Users\1\Documents\C#\homework-Lelouch19\08\Квест про грабителей\Квест про грабителей\bin\Debug\Квест про грабителей.pdb
+C:\Users\1\Documents\C#\homework-Lelouch19\08\Квест про грабителей\Квест про грабителей\obj\Debug\Квест про грабителей.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\C#\homework-Lelouch19\08\Квест про грабителей\Квест про грабителей\obj\Debug\Квест про грабителей.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\C#\homework-Lelouch19\08\Квест про грабителей\Квест про грабителей\obj\Debug\Квест про грабителей.exe
+C:\Users\1\Documents\C#\homework-Lelouch19\08\Квест про грабителей\Квест про грабителей\obj\Debug\Квест про грабителей.pdb

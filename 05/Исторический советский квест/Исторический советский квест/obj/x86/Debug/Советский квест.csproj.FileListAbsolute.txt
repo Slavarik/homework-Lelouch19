@@ -1,0 +1,4 @@
+C:\Users\1\AppData\Local\Temporary Projects\Советский квест\bin\Debug\Советский квест.exe
+C:\Users\1\AppData\Local\Temporary Projects\Советский квест\bin\Debug\Советский квест.pdb
+C:\Users\1\AppData\Local\Temporary Projects\Советский квест\obj\x86\Debug\Советский квест.exe
+C:\Users\1\AppData\Local\Temporary Projects\Советский квест\obj\x86\Debug\Советский квест.pdb

@@ -1,0 +1,6 @@
+C:\Users\1\AppData\Local\Temporary Projects\Рекомендации по весу\bin\Debug\Рекомендации по весу.exe
+C:\Users\1\AppData\Local\Temporary Projects\Рекомендации по весу\bin\Debug\Рекомендации по весу.pdb
+C:\Users\1\AppData\Local\Temporary Projects\Рекомендации по весу\obj\x86\Debug\Рекомендации по весу.exe
+C:\Users\1\AppData\Local\Temporary Projects\Рекомендации по весу\obj\x86\Debug\Рекомендации по весу.pdb
+C:\Users\1\Documents\C#\homework-Lelouch19\Рекомендации по весу\Рекомендации по весу\obj\x86\Debug\Рекомендации по весу.exe
+C:\Users\1\Documents\C#\homework-Lelouch19\Рекомендации по весу\Рекомендации по весу\obj\x86\Debug\Рекомендации по весу.pdb

@@ -1,0 +1,10 @@
+C:\Users\1\Documents\C#\homework-Lelouch19\06\molesInHoles\molesInHoles\bin\Debug\molesInHoles.exe.config
+C:\Users\1\Documents\C#\homework-Lelouch19\06\molesInHoles\molesInHoles\bin\Debug\molesInHoles.exe
+C:\Users\1\Documents\C#\homework-Lelouch19\06\molesInHoles\molesInHoles\bin\Debug\molesInHoles.pdb
+C:\Users\1\Documents\C#\homework-Lelouch19\06\molesInHoles\molesInHoles\obj\Debug\molesInHoles.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\C#\homework-Lelouch19\06\molesInHoles\molesInHoles\obj\Debug\molesInHoles.Form1.resources
+C:\Users\1\Documents\C#\homework-Lelouch19\06\molesInHoles\molesInHoles\obj\Debug\molesInHoles.Properties.Resources.resources
+C:\Users\1\Documents\C#\homework-Lelouch19\06\molesInHoles\molesInHoles\obj\Debug\molesInHoles.csproj.GenerateResource.Cache
+C:\Users\1\Documents\C#\homework-Lelouch19\06\molesInHoles\molesInHoles\obj\Debug\molesInHoles.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\C#\homework-Lelouch19\06\molesInHoles\molesInHoles\obj\Debug\molesInHoles.exe
+C:\Users\1\Documents\C#\homework-Lelouch19\06\molesInHoles\molesInHoles\obj\Debug\molesInHoles.pdb

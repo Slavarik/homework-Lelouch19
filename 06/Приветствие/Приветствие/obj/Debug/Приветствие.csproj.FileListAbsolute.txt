@@ -1,0 +1,6 @@
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Приветствие\Приветствие\bin\Debug\Приветствие.exe.config
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Приветствие\Приветствие\bin\Debug\Приветствие.exe
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Приветствие\Приветствие\bin\Debug\Приветствие.pdb
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Приветствие\Приветствие\obj\Debug\Приветствие.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Приветствие\Приветствие\obj\Debug\Приветствие.exe
+C:\Users\1\Documents\C#\homework-Lelouch19\06\Приветствие\Приветствие\obj\Debug\Приветствие.pdb
