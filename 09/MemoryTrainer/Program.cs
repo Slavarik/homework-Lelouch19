@@ -24,7 +24,7 @@ namespace MemoryTrainer
 			while (true) 
             {
 				Console.WriteLine("Запомните число: " + number);
-                Thread.Sleep(y);
+                Thread.Sleep(TimeSleep);
 				Console.Clear();
 
 				Console.WriteLine("Введите запомненное число");
