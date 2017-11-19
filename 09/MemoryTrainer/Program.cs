@@ -18,12 +18,13 @@ namespace MemoryTrainer
         {
 			Random rand = new Random();
             int number = rand.Next(100);
-            int x = 100;
+            int MaximumNumber = 100;
+            int TimeSleep = 2000;
 
 			while (true) 
             {
 				Console.WriteLine("Запомните число: " + number);
-                Thread.Sleep(2000);
+                Thread.Sleep(y);
 				Console.Clear();
 
 				Console.WriteLine("Введите запомненное число");
@@ -33,14 +34,19 @@ namespace MemoryTrainer
 				if (guess == number) 
                 {
 					Console.WriteLine("Вы угадали!");
-                    x = x + 200;
-                    number = rand.Next(x);
+                    MaximumNumber = MaximumNumber + 200;
+                    number = rand.Next(MaximumNumber);
+                    if (MaximumNumber == 2100)
+                    {
+                        TimeSleep = TimeSleep - 100;
+                        Thread.Sleep(TimeSleep);
+                    }
 				}
 				else 
                 {
 					Console.WriteLine("Вы ошиблись ='(");
-                    x = x - 100;
-                    number = rand.Next(x);
+                    MaximumNumber = MaximumNumber - 100;
+                    number = rand.Next(MaximumNumber);
 				}
 				Thread.Sleep(1000);
 				Console.Clear();
