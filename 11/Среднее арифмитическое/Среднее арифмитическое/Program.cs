@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Среднее_арифмитическое
@@ -14,6 +15,7 @@ namespace Среднее_арифмитическое
             int sum = 0;
             while(n < 50)
             {
+                Thread.Sleep(100);
                 Random rand = new Random();
                 int a = rand.Next(0, 500);
                 Console.WriteLine("Число - " + a);
