@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Все целые числа от 100 до 200 ,кратные семи", "Все целые числа от 100 до 200 ,кратные семи\Все целые числа от 100 до 200 ,кратные семи.csproj", "{1069C714-8F71-4FD7-BE39-E1E2413707CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1069C714-8F71-4FD7-BE39-E1E2413707CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1069C714-8F71-4FD7-BE39-E1E2413707CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1069C714-8F71-4FD7-BE39-E1E2413707CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1069C714-8F71-4FD7-BE39-E1E2413707CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF5BD226-6A27-4E64-906C-D640914EE32E}
+	EndGlobalSection
+EndGlobal
